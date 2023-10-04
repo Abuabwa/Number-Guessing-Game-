@@ -2,7 +2,7 @@ import random
 import tkinter as tk
 from tkinter import messagebox
 
-attempts = 5  # Number of attempts allowed
+attempts = 6  # Number of attempts allowed
 
 def check_guess():
     global attempts
